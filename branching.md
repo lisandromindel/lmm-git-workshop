@@ -1,13 +1,43 @@
 [**Naming + GitFlow || LisoFlow (explained?)**](./readme.md)
 
 # Branching
+
+[1. GitFlow](###gitflow)  
+[2. LisoFlow](###lisoflow)  
+___
   
-When working on teams larger than one, to have a solid workflow for code sharing and and history tracking is key for a conflictless life (almost).  
+### GitFlow
+> Gitflow Workflow is a Git workflow design that was first published and made popular by Vincent Driessen at nvie.  
+> Defines a strict branching model designed around the project release.  
+> Is ideally suited for projects that have a scheduled release cycle.
 
-This will not only pay off while working, but also when revisiting old repositories or making case studies.  
+Credits and great documentaiton with more detail explanations from Atlasian's approach: [GitFlow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)  
 
-We'll look into 2 common approaches when evaluating a git workflow to use for given project.  
+#### Getting started  
+We can install the git flow workflow to run native commands on the terminal  
+`brew install git-flow`
 
-But keep in mind that these are just suggestions and that nothing is written in stone. Whatever approach you choose, just agree with your teammates for a smooth process.
+And start up a project by running  
+`git flow init`  
+> Git-flow is a wrapper around Git. The git flow init command is an extension of the default git init command and doesn't change anything in your repository other than creating branches for you.
+
+___
+
+### LisoFlow   
+> Gitflow Workflow is a Git workflow design that was first published and made popular by Vincent Driessen at nvie.  
+> Defines a strict branching model designed around the project release.  
+> Is ideally suited for projects that have a scheduled release cycle.
+
+Credits and great documentaiton with more detail explanations from Atlasian's approach: [GitFlow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)  
+
+#### Getting started  
+We can install the git flow workflow to run native commands on the terminal  
+`brew install git-flow`
+
+And start up a project by running  
+`git flow init`  
+> Git-flow is a wrapper around Git. The git flow init command is an extension of the default git init command and doesn't change anything in your repository other than creating branches for you.
+
+
 
 [Previous](./naming.md) – [Next](./conclusion.md)
