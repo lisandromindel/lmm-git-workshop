@@ -2,8 +2,8 @@
 
 # Branching
 
-[1. GitFlow](###gitflow)  
-[2. LisoFlow](###lisoflow)  
+[1. GitFlow](#GitFlow)  
+[2. LisoFlow](#LisoFlow)  
 ___
   
 ### GitFlow
