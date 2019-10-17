@@ -2,8 +2,9 @@ LINE 1
 LINE 2
 line 3
 line 4
+LINE 5
 
-# $ git workshop   
+# $ git workshop 
 
 ### Naming + GitFlow || LisoFlow (explained?)
 
