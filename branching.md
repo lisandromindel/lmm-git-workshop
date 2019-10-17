@@ -1,6 +1,6 @@
 [**Naming + GitFlow || LisoFlow (explained?)**](./readme.md)
 
-# Branching
+# Branching system
 
 [1. GitFlow](#GitFlow)  
 [2. LisoFlow](#LisoFlow)  

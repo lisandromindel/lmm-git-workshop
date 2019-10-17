@@ -2,12 +2,21 @@
 
 # Conclusion
   
-When working on teams larger than one, to have a solid workflow for code sharing and and history tracking is key for a conflictless life (almost).  
+Git is nothing else than a whole world on itself. There are countless approaches to it, and nothing is better than what the team feels confortable on.  
 
-This will not only pay off while working, but also when revisiting old repositories or making case studies.  
+I strongly recommend doing a sitdown with your team and the lead developer to agree on what approach you will be taking, and get a buy-in from the team before getting started.
 
-We'll look into 2 common approaches when evaluating a git workflow to use for given project.  
+Further read and good tips:  
+[Atlassian git workflow comparisson](https://www.atlassian.com/git/tutorials/comparing-workflows)  
+[Learn Git branching](https://learngitbranching.js.org/)  
+[Git branching in a nutshell](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
 
-But keep in mind that these are just suggestions and that nothing is written in stone. Whatever approach you choose, just agree with your teammates for a smooth process.
+Usefull tools for enhacing your git experience:  
+[Sourcetree UI](https://www.sourcetreeapp.com)  
+[Github desktop UI](https://desktop.github.com/)  
+
+Big silent thanks to Atlassian for letting me borrow and edit their images ;)  
+
+## THANK YOU!
 
 [Previous](./branching.md)
