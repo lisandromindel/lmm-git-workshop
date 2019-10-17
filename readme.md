@@ -1,4 +1,7 @@
-# $ git workshop ---CONFLICT--- 
+LINE 1
+LINE 2
+
+# $ git workshop   
 
 ### Naming + GitFlow || LisoFlow (explained?)
 
