@@ -1,5 +1,7 @@
 LINE 1
 LINE 2
+line 3
+line 4
 
 # $ git workshop   
 
