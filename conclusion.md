@@ -7,6 +7,7 @@ Git is nothing else than a whole world on itself. There are countless approaches
 I strongly recommend doing a sitdown with your team and the lead developer to agree on what approach you will be taking, and get a buy-in from the team before getting started.
 
 Further read and good tips:  
+[Northkingdom Styleguide for Git](https://github.com/NorthKingdom/styleguides/blob/master/git.md)  
 [Atlassian git workflow comparisson](https://www.atlassian.com/git/tutorials/comparing-workflows)  
 [Learn Git branching](https://learngitbranching.js.org/)  
 [Git branching in a nutshell](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
