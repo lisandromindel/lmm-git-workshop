@@ -1,4 +1,4 @@
-# $ git workshop  
+# $ git workshop --- NEW CONFLICT CREATED ---   
 
 ### Naming + GitFlow || LisoFlow (explained?)
 
