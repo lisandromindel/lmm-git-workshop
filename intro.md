@@ -1,6 +1,6 @@
 [**Naming + (GitFlow || LisoFlow) //explained?**](./readme.md)
 
-# Intro
+# 1. Intro
   
 When working on teams larger than one, to have a solid workflow for code sharing and and history tracking is key for a conflictless life (almost).  
 

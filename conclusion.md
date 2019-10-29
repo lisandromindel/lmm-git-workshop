@@ -1,6 +1,6 @@
 [**Naming + (GitFlow || LisoFlow) //explained?**](./readme.md)
 
-# Conclusion
+# 4. Conclusion
   
 Git is nothing else than a whole world on itself. There are countless approaches to it, and nothing is better than what the team feels confortable on.  
 

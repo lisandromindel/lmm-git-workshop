@@ -1,6 +1,6 @@
 [**Naming + (GitFlow || LisoFlow) //explained?**](./readme.md)
 
-# Naming
+# 2. Naming
   
 ### Repository names  
 
