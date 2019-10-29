@@ -193,6 +193,6 @@ Pull requests are just great.
 They actually work quite well with both approaches. It usually works best when you are unsure about a feature and you want support before merging it into develop.  
 Sometimes you want to keep track on specific changes within a merge, creating a pull request even for yourself allows you to comment on each changed line.  
 
-DEMO!!!
+DEMO
 
 [Previous](./naming.md) – [Next](./conclusion.md)
