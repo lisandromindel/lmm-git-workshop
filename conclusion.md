@@ -15,9 +15,9 @@ Further read and good tips:
 Usefull tools for enhacing your git experience:  
 [Sourcetree UI](https://www.sourcetreeapp.com)  
 [Github desktop UI](https://desktop.github.com/)  
+[Git Graph for VSCode](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)  
 
-Big silent thanks to Atlassian for letting me borrow and edit their images ;)  
-
-## THANK YOU!
+## THANK YOU!  
+...and big secret thanks to Atlassian for letting me borrow and edit their images and some of their copy ;)  
 
 [Previous](./branching.md)
