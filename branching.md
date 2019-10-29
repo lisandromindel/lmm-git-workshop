@@ -151,7 +151,7 @@ ___
 > Is ideally suited for small projects with short life cycle and for smaller team (or even a single developer).  
 
 ![Gitflow branching](./assets/lf_01.svg)  
-Everything else can be handled in any way the lead developer decides. For example, creating a release branch, or merging back to master for releases. This is a bit flexible and can be scaled up depending on the project's needs.  
+Any other features could be used, like creating a release branch, or merging back to master for releases. This is a bit flexible and can be scaled up depending on the project's needs.  
 
 They key factor of this approach is to keep a commit history strict to time based. Using `--no-ff` on merge commands makes git keep all history of commits in the merge, making develop a longer track of single commits, instead of merge messages where the ownership of commits might change with merge commands.  
 

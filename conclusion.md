@@ -4,9 +4,9 @@
   
 Git is nothing else than a whole world on itself. There are countless approaches to it, and nothing is better than what the team feels confortable on.  
 
-I strongly recommend doing a sitdown with your team and the lead developer to agree on what approach you will be taking, and get a buy-in from the team before getting started.
+It's recommend to do a sitdown with your team and agree on what approach you will be taking, and get a buy-in from everyone before getting started.
 
-Further read and good tips:  
+Further reading and tips:  
 [Northkingdom Styleguide for Git](https://github.com/NorthKingdom/styleguides/blob/master/git.md)  
 [Atlassian git workflow comparisson](https://www.atlassian.com/git/tutorials/comparing-workflows)  
 [Learn Git branching](https://learngitbranching.js.org/)  
@@ -18,6 +18,9 @@ Usefull tools for enhacing your git experience:
 [Git Graph for VSCode](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)  
 
 ## THANK YOU!  
+
+![DEMO!](./assets/gif/notmine.gif)  
+
 And thanks to Atlassian for (not) letting me borrow and edit their images and quote them ;)  
 
 [Previous](./branching.md)
