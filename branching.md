@@ -147,7 +147,8 @@ To sum it all up, a basic flow description should look like this:
 ___ 
 
 ### LisoFlow   
-> Custom brewed git workflow based on feature branches with a rebase/merge no fast forward technique.  
+> Common git workflow based on feature branches with a rebase/merge no fast forward technique.
+> NK Git Styleguide covers a similar approach very nicely, check the link in [conclusion page](./conclusion.md).  
 > Is ideally suited for small projects with short life cycle and for smaller team (or even a single developer).  
 
 ![Gitflow branching](./assets/lf_01.svg)  
