@@ -17,7 +17,7 @@ Usefull tools for enhacing your git experience:
 [Github desktop UI](https://desktop.github.com/)  
 [Git Graph for VSCode](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)  
 
-## THANK YOU!  
+#### _THANK YOU!_  
 
 ![DEMO!](./assets/gif/notmine.gif)  
 
