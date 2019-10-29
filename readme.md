@@ -1,6 +1,6 @@
 # $ git workshop 
 
-### Naming + GitFlow || LisoFlow (explained?)
+### Naming + (GitFlow || LisoFlow) //explained?
 
 #### Contents  
 [1. Intro](./intro.md)  

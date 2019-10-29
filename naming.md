@@ -1,4 +1,4 @@
-[**Naming + GitFlow || LisoFlow (explained?)**](./readme.md)
+[**Naming + (GitFlow || LisoFlow) //explained?**](./readme.md)
 
 # Naming
   
