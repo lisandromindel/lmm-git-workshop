@@ -4,7 +4,7 @@
   
 When working on teams larger than one, to have a solid workflow for code sharing and and history tracking is key for a conflictless life (almost).  
 
-GIF  
+![DEMO!](./assets/gif/pc.gif)  
 
 And comes handy while working, revisiting old repositories or making case studies.  
 

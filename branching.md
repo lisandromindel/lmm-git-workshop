@@ -190,9 +190,9 @@ ___
 ### But what about pull requests?  
 Great question.  
 Pull requests are just great.
-They actually work quite well with both approaches. It usually works best when you are unsure about a feature and you want support before merging it into develop.  
-Sometimes you want to keep track on specific changes within a merge, creating a pull request even for yourself allows you to comment on each changed line.  
-
-DEMO
+They actually work quite well with both approaches. It usually works best when you are unsure about a feature and you want support before merging it into develop, or when -for archiving purposes- you want to track a merge of a big feature.  
+Sometimes you want to keep track on specific changes within a merge, creating a pull request even for yourself, and to comment on each changed line are great features.  
+  
+![DEMO!](./assets/gif/monkey.gif)  
 
 [Previous](./naming.md) – [Next](./conclusion.md)
