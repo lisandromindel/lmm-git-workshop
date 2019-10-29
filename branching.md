@@ -183,6 +183,16 @@ $ git pull
 $ git merge --no-ff feature/feature_branch
 $ git push
 ```
-> If for some reason a push has been made to origin develop while we were rebasing/merging we will know when we pull before merge. So before merging, we go back to our feature branch and repeat the process of rebasing. Then back to develop and continue the flow.
+> If for some reason a push has been made to origin develop while we were rebasing/merging we will know when we pull before merge. So before merging, we go back to our feature branch and repeat the process of rebasing. Then back to develop and continue the flow.  
+  
+___  
+
+### But what about pull requests?  
+Great question.  
+Pull requests are just great.
+They actually work quite well with both approaches. It usually works best when you are unsure about a feature and you want support before merging it into develop.  
+Sometimes you want to keep track on specific changes within a merge, creating a pull request even for yourself allows you to comment on each changed line.  
+
+DEMO
 
 [Previous](./naming.md) – [Next](./conclusion.md)

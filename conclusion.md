@@ -18,6 +18,6 @@ Usefull tools for enhacing your git experience:
 [Git Graph for VSCode](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)  
 
 ## THANK YOU!  
-...and big secret thanks to Atlassian for letting me borrow and edit their images and some of their copy ;)  
+And thanks to Atlassian for (not) letting me borrow and edit their images and quote them ;)  
 
 [Previous](./branching.md)
