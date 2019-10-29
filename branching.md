@@ -46,6 +46,7 @@ $ git branch
 #### Branching  
 
 ![Gitflow branching](./assets/gf_01.svg)  
+
 > Feature branches are generally created off to the latest develop branch.  
 Create feature branch by running  
 
@@ -74,6 +75,7 @@ $ git flow feature finish feature_branch
 
 #### Releases
 ![Gitflow branching](./assets/gf_02.svg)  
+
 When we start a release branch, no further features can be pushed to it, and a release cycle is started. The intention behind this practice is to allow other team members to keep on working on new features, while a clean release is prepared with a set ammount of new features for the next version.  
 
 > Once it's ready to ship, the release branch gets merged into master and tagged with a version number. In addition, it should be merged back into develop, which may have progressed since the release was initiated.  
@@ -105,6 +107,7 @@ $ git flow release finish '0.1.0'
 
 #### Hotfixes  
 ![Gitflow branching](./assets/gf_03.svg)  
+
 Hotfixes are intended for patching released versions.
 The main difference between a hotfix branch, and release or feature branches, is that these are based on master, and not develop. As soon as it's ready it should be merged back into both master and develop. Master should then be tagged also with a new version.  
 Same as release branches, this process allows the team to work on separate threads addressing bugs while at the same time keep working on new features.  
@@ -152,6 +155,7 @@ ___
 > Is ideally suited for small projects with short life cycle and for smaller team (or even a single developer).  
 
 ![Gitflow branching](./assets/lf_01.svg)  
+
 Any other features could be used, like creating a release branch, or merging back to master for releases. This is a bit flexible and can be scaled up depending on the project's needs.  
 
 They key factor of this approach is to keep a commit history strict to time based. Using `--no-ff` on merge commands makes git keep all history of commits in the merge, making develop a longer track of single commits, instead of merge messages where the ownership of commits might change with merge commands.  
@@ -169,7 +173,7 @@ $ git fetch origin
 $ git rebase origin/develop
 ```  
 
-Any conflicts between origin and local copies should be addressed here and now. Given that we are rebasing, git will try to handle conflicts by one commit at a time, making conflict fixing much easier. For every file we fix a conflict we need to add to index and continue rebasing.
+Any conflicts between origin and local copies should be addressed now. Given that we are rebasing, git will try to handle conflicts by one commit at a time, making conflict fixing much easier. For every file we fix a conflict we need to add to index and continue rebasing.
 ```
 $ git add file_with_conflicts_fixed
 $ git rebase --continue
