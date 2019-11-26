@@ -1,4 +1,4 @@
-# $ git workshop 
+# $ git talk 
 
 ### Naming + (GitFlow || LisoFlow) //explained?
 

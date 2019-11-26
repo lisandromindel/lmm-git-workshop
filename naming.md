@@ -8,19 +8,29 @@
 
 This gives clarity about the main client and groups projects more nicely on lists, as well as making it easy to search in the future.  
 
+Example names would look something like this  
+`supercell-make-website`  
+`supercell-hayday-popmicrosite`  
+`ea-nfs-heatstudio`  
+`ef-funform-frontend`  
+`nk-website` _(for cases where no brand is needed)_  
+
 Any suggestions? Let’s discuss!  
+
+___
 
 ### Branch names  
 
 `feature/name`  
 `hotfix/name`  
 `release/version`  
-`misc/test`  _could be anything_
+`misc/test`  _(could be anything)_
 
 ### Origin
 
-`master` _for tagging_  
+`master` _(for tagging)_  
 `develop`  
+`feature/name` _(can be used for pull requests)_
 
 > Origin should be clean and only contain main branches
 
